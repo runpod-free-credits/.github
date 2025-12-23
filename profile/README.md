@@ -1,6 +1,6 @@
 If you’re looking for **Runpod free credits**, coupons and promo codes, things are you want access to high-end GPUs (like H100s or A100s) to train AI models or render scenes without signing a massive enterprise contract. You want to see real inference speeds, test the "Serverless" cold starts, and verify reliability before committing your budget.
 
-Instead of giving you a restricted "demo environment" or forcing you to talk to sales just to touch an H100, Runpod allows new users to spin up enterprise-grade hardware for pennies per hour. No shortcuts. No stripped-down experience. Just full root access to the GPUs.
+Instead of giving you a restricted "demo environment" or forcing you to talk to sales just to touch an H100, Runpod allows new users to spin up enterprise-grade hardware for pennies per hour. No shortcuts. No stripped-down experience. Just instant access to the GPUs.
 
 ## How to Get Started with Runpod Free Credits (Step-by-Step)
 
@@ -17,7 +17,7 @@ There are no contracts, no sales calls, and no approval queues for most standard
 
 ### Do You Need a Credit Card for Runpod?
 
-Yes, Runpod generally requires a **credit card or crypto deposit** to activate your account and spin up pods.
+Yes, Runpod generally requires a **credit card or Paypal deposit** to activate your account and spin up pods.
 
 This often worries people looking for a "free" tier, but here’s the honest explanation:
 * **Prevent Abuse:** GPUs are highly targeted by crypto miners and botnets.
@@ -90,7 +90,7 @@ RunPod avoids this. With just a **$10 deposit**, you bypass the sales gate entir
 
 ## RunPod Global Data Centers (Why Location Matters)
 
-RunPod operates in **30+ regions** globally, including:
+RunPod operates in **14+ regions** globally, including:
 * **North America:** US (multiple states), Canada
 * **Europe:** UK, Romania, France, Iceland, Netherlands
 * **Asia:** Singapore, Korea, Japan
@@ -181,5 +181,3 @@ If you are building AI applications, rendering video, or fine-tuning models, Run
 
 ### Get Started with RunPod
 If you’re thinking about moving your AI workload off your local machine, there’s no downside to testing RunPod.
-
-👉 **Create an account, deposit $10, and deploy a 4090 in seconds.**
