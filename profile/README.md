@@ -1,14 +1,16 @@
-If you’re looking for **Runpod free credits**, coupons and promo codes, things are you want access to high-end GPUs (like H100s or A100s) to train AI models or render scenes without signing a massive enterprise contract. You want to see real inference speeds, test the "Serverless" cold starts, and verify reliability before committing your budget.
+If you’re looking for **Runpod free credits**, coupons and promo codes, things are you want access to high-end GPUs (like H100s or A100s) to train AI models or render scenes without signing a massive enterprise contract. Join Runpod trial and test high performing GPUs, the "Serverless" cold starts, and verify reliability before committing your budget.
 
-Instead of giving you a restricted "demo environment" or forcing you to talk to sales just to touch an H100, Runpod allows new users to spin up enterprise-grade hardware for pennies per hour. No shortcuts. No stripped-down experience. Just instant access to the GPUs.
+Instead of giving you a restricted "demo environment" or forcing you to talk to sales just to touch an H100, Runpod allows new users to spin up enterprise-grade hardware for pennies per hour. No shortcuts. No stripped-down experience. Just instant access to the GPUs. 
 
 ## How to Get Started with Runpod Free Credits (Step-by-Step)
 
 Getting started with Runpod is designed to be faster than almost any other GPU cloud.
 
-1.  **Create a new Runpod account** (Google or Email login)
+1.  **Go through the link and Create a new Runpod account** (Google or Email login)
+<img width="677" height="598" alt="Runpod Free credits" src="https://github.com/user-attachments/assets/08ca701e-224c-4ba8-9da2-e838818b60fc" />
+
 2.  **Verify your email address.**
-3.  **Add a valid payment method** (Credit Card or Crypto)
+3.  **Add a valid payment method** ( Cards or Paypal)
 4.  **Load a small starting balance** (Runpod requires verification)
 5.  **Get upto $500 in free credits**
 6.  **Deploy your first GPU Pod.**
@@ -116,9 +118,9 @@ You appreciate RunPod because it supports the tools you already use.
 
 ---
 
-## How Much Compute Can $10 Really Buy?
+## How Much Compute Can $10 Runpod Credit Really Buy?
 
-Since RunPod doesn't give a flat "$300 free" coupon to everyone, you might wonder if the minimum deposit ($10) is enough to test anything.
+Since Runpod doesn't give a flat "$300 free" coupon to everyone, you might wonder if the minimum deposit ($10) is enough to test anything.
 
 Here is what **$10** realistically buys you on RunPod:
 * **~20 Hours** of an **RTX 3090** (24GB VRAM) — *Enough to fine-tune a Llama-3-8B model.*
@@ -152,25 +154,25 @@ For most users, $10 is more than enough to decide if the platform works for them
 ## RunPod Frequently Asked Questions (FAQ)
 
 **Is RunPod actually free?**
-RunPod does not have a permanent "free tier" for GPUs. It uses a "pay-as-you-go" model. However, the costs are so low (starting at $0.20/hour) that it acts as a low-risk trial.
+Runpod does not have a permanent "free tier" for GPUs. It uses a "pay-as-you-go" model. However, the costs are so low (starting at $0.20/hour) that it acts as a low-risk trial.
 
 **Can I get a refund on my deposited balance?**
-No. RunPod typically does **not** refund unused balances. You should only deposit what you plan to use. Start with the minimum ($10 or $25) to test the waters.
+No. Runpod typically does **not** refund unused balances. You should only deposit what you plan to use. Start with the minimum ($10 or $25) to test the waters.
 
 **What happens if my balance runs out while a Pod is running?**
 Your Pod will be stopped automatically. If you do not add funds within a certain window, the Pod (and its data) may be terminated to free up the GPU for other users.
 
-**Can I use RunPod for crypto mining?**
-RunPod generally discourages or bans disruptive mining on specific tiers, but allows it on Community Cloud if you are paying the market rate. However, it is rarely profitable compared to specialized mining pools.
+**Can I use Runpod for crypto mining?**
+Runpod generally discourages or bans disruptive mining on specific tiers, but allows it on Community Cloud if you are paying the market rate. However, it is rarely profitable compared to specialized mining pools.
 
-**Does RunPod bill me while the Pod is stopped?**
+**Does Runpod bill me while the Pod is stopped?**
 **Yes and No.** You are *not* billed for the GPU compute time while stopped. However, you *are* billed for the disk storage you are occupying (usually $0.20 per GB per month). To stop all billing, you must **Terminate** (delete) the Pod.
 
 ---
 
-## Final Thoughts: Is RunPod Worth Testing?
+## Final Thoughts: Is Runpod trial Worth Testing?
 
-The **RunPod model** is one of the best ways to access supercomputer-level hardware without risk.
+The **RunPod**'s free trial is one of the best ways to access supercomputer-level hardware without risk.
 
 It gives you:
 * **Real H100/A100 access** (not just a waitlist).
