@@ -159,24 +159,7 @@ No. Runpod typically does **not** refund unused balances. You should only deposi
 **What happens if my balance runs out while a Pod is running?**
 Your Pod will be stopped automatically. If you do not add funds within a certain window, the Pod (and its data) may be terminated to free up the GPU for other users.
 
-**Can I use Runpod for crypto mining?**
-Runpod generally discourages or bans disruptive mining on specific tiers, but allows it on Community Cloud if you are paying the market rate. However, it is rarely profitable compared to specialized mining pools.
-
 **Does Runpod bill me while the Pod is stopped?**
 **Yes and No.** You are *not* billed for the GPU compute time while stopped. However, you *are* billed for the disk storage you are occupying (usually $0.20 per GB per month). To stop all billing, you must **Terminate** (delete) the Pod.
 
 ---
-
-## Final Thoughts: Is Runpod trial Worth Testing?
-
-The **RunPod**'s free trial is one of the best ways to access supercomputer-level hardware without risk. We tested it and found
-
-It gives you:
-* **Real H100/A100 access** (not just a waitlist).
-* **Docker-based environments** (JupyterLab included).
-* **Per-second billing** (Test for $1).
-
-If you are building AI applications, rendering video, or fine-tuning models, RunPod is absolutely worth the small deposit to test.
-
-### Get Started with RunPod
-If you’re thinking about moving your AI workload off your local machine, there’s no downside to testing RunPod.
