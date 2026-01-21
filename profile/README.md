@@ -1,6 +1,3 @@
-If you’re looking for **Runpod free credits**, coupons and promo codes, you want access to high-end GPUs (like H100s or A100s) to train AI models or render scenes without signing a massive enterprise contract. Join Runpod trial and test high performing GPUs, the "Serverless" cold starts, and verify reliability before committing your budget.
-
-Instead of giving you a restricted "demo environment" or forcing you to talk to sales just to touch an H100, Runpod allows new users to spin up enterprise-grade hardware for pennies per hour. No shortcuts. No stripped-down experience. Just instant access to the GPUs. 
 
 ## How to Get Started with Runpod Free Credits (Step-by-Step)
 
